@@ -1,0 +1,5 @@
+# Ignore Power BI files, temp files, and OS-generated files
+*.pbix~
+*.zip
+*.tmp
+.DS_Store
