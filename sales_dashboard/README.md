@@ -10,9 +10,9 @@ This project analyzes sales data from a small business using the Superstore data
 - Segment-wise Performance
 
 ## 📁 Project Structure
-- `data/` – Dataset
-- `reports/` – Power BI report file
-- `assets/` – Screenshot of dashboard
+- `data` – Dataset
+- `report` – Power BI report file
+- `assets` – Screenshot of dashboard
 
 ## 🔧 Tools Used
 - Power BI Desktop
