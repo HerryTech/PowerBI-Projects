@@ -6,8 +6,8 @@ This project analyzes sales data from a small business using the Superstore data
 - Total Sales, Profit, and Orders KPIs
 - Sales vs Previous Sales Trend
 - Profit by Sales
-- Sales by Region (Map)
-- Segment-wise Performance
+- Profit by State (Map)
+- Sales by Segment
 
 ## 📁 Project Structure
 - `data` – Dataset
