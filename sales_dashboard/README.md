@@ -5,7 +5,7 @@ This project analyzes sales data from a small business using the Superstore data
 ## 📊 Dashboard Features
 - Total Sales, Profit, and Orders KPIs
 - Sales vs Previous Sales Trend
-- Top Categories and Sub-Categories
+- Profit by Sales
 - Sales by Region (Map)
 - Segment-wise Performance
 
