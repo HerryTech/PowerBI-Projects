@@ -20,4 +20,4 @@ This project analyzes sales data from a small business using the Superstore data
 
 ## 📷 Screenshot
 
-[Sales Dashboard Preview](assets/dashboard_screenshot.png)
+[Sales Dashboard Preview](./assets/dashboard_screenshot.png)
