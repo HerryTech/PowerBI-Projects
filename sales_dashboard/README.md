@@ -1,6 +1,6 @@
 # Sales Dashboard – Superstore Data
 
-This project analyzes sales data from a small business using the Superstore dataset. The dashboard helps visualize sales performance, profit trends, and state insights.
+This project analyzes sales data from a small business using the Superstore dataset. The dashboard helps visualize profit performance, Sales vs Previous Sales Trend, and state insights.
 
 ## 📊 Dashboard Features
 - Total Sales, Profit, and Orders KPIs
