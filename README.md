@@ -8,5 +8,7 @@ This repository contains a collection of interactive dashboards and business int
 
 An analytical dashboard built using U.S. Superstore data to provide insights into sales performance, profit performance e.t.c.
 
+**Folder:** [sales_dashboard](./sales_dashboard)
+
 
 _More projects will be added soon!_
