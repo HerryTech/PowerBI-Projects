@@ -6,5 +6,7 @@ This repository contains a collection of interactive dashboards and business int
 
 ### 1. Sales Dashboard - Superstore dataset
 
+An analytical dashboard built using U.S. Superstore data to provide insights into sales performance, profit e.t.c.
+
 
 _More projects will be added soon!_
