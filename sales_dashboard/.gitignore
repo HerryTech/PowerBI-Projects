@@ -1,4 +1,4 @@
-# Ignore Power BI files, temp files, and OS-generated files
+# Ignore Power BI filess
 *.pbix~
 *.zip
 *.tmp
