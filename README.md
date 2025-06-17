@@ -10,5 +10,9 @@ An analytical dashboard built using U.S. Superstore data to provide insights int
 
 **Folder:** [sales_dashboard](./sales_dashboard)
 
+### Data Professional Survey
+
+_In progress_
+
 
 _More projects will be added soon!_
