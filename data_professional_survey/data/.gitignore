@@ -1,0 +1,4 @@
+#Ignore PowerBI files
+*.pbix~
+*.zip
+*.tmp
