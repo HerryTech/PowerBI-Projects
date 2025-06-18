@@ -18,7 +18,7 @@ This Power BI project visualizes the results of a survey conducted among 630 dat
 
 - `assets` – Dashboard screenshot image
 
-# Key Dashboard Insights
+## Key Dashboard Insights
 - Country of Respondent: Majority of respondents are from the United States, followed by India, the UK, Canada, and other regions.
 
 - Favorite Programming Language: Python dominates as the most preferred language, far ahead of R and others.
