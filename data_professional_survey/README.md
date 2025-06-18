@@ -23,7 +23,7 @@ This Power BI project visualizes the results of a survey conducted among 630 dat
 
 - Favorite Programming Language: Python dominates as the most preferred language, far ahead of R and others.
 
-- Average Salary by Gender: Slightly higher representation and salary for males (51.14%) compared to females (48.86%).
+- Average Salary by Gender: Slightly higher representation and salary for females (51.14%) compared to males (48.86%).
 
 - Average Salary by Job Title: Data Scientists earn the most on average, followed by Data Architects and Engineers.
 
@@ -44,4 +44,4 @@ This Power BI project visualizes the results of a survey conducted among 630 dat
 
 ## Screenshot
 
-[Data Professional Dashboard Preview](./Asset/Professional Dashboard.png)
+[Data Professional Dashboard Preview](./Asset/Professional_Dashboard.png)
