@@ -10,9 +10,9 @@ An analytical dashboard built using U.S. Superstore data to provide insights int
 
 **Folder:** [sales_dashboard](./sales_dashboard)
 
-### Data Professional Survey
+### 2. Data Professional Survey
 
-_In progress_
+A Power BI dashboard analyzing survey responses from data professionals, covering salary trends, job roles, satisfaction levels, and tool preferences.
 
 
 _More projects will be added soon!_
