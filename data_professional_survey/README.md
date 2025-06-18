@@ -40,7 +40,7 @@ This Power BI project visualizes the results of a survey conducted among 630 dat
 
 - Microsoft Excel
 
-- Survey data
+- Survey data (Google form)
 
 ## Screenshot
 
