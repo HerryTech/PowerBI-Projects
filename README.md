@@ -14,7 +14,7 @@ An analytical dashboard built using U.S. Superstore data to provide insights int
 
 A Power BI dashboard analyzing survey responses from data professionals, covering salary trends, job roles, satisfaction levels, and tool preferences.
 
-**Folder:** [data_professionaal_survey](./data_professional_survey)
+**Folder:** [data_professional_survey](./data_professional_survey)
 
 
 _More projects will be added soon!_
