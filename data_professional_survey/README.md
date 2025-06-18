@@ -18,6 +18,23 @@ This Power BI project visualizes the results of a survey conducted among 630 dat
 
 - `assets` – Dashboard screenshot image
 
+# Key Dashboard Insights
+- Country of Respondent: Majority of respondents are from the United States, followed by India, the UK, Canada, and other regions.
+
+- Favorite Programming Language: Python dominates as the most preferred language, far ahead of R and others.
+
+- Average Salary by Gender: Slightly higher representation and salary for males (51.14%) compared to females (48.86%).
+
+- Average Salary by Job Title: Data Scientists earn the most on average, followed by Data Architects and Engineers.
+
+- Work/Life Balance: Average rating is 5.74 / 10
+
+- Salary Satisfaction: Average rating is 4.27 / 10
+
+- Demographics:
+    - Number of Respondents: 630
+    - Average Age: 29.87
+
 ## Tools Used
 - Power BI Desktop
 
