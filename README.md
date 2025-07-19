@@ -16,7 +16,7 @@ A Power BI dashboard analyzing survey responses from data professionals, coverin
 
 **Folder:** [data_professional_survey](./data_professional_survey)
 
-### 3. Blinkit Sales (_in progress..._)
+### 3. Blinkit Sales (_in progress_)
 
 
 _More projects will be added soon!_
