@@ -17,10 +17,10 @@ This Power BI project visualizes sales and outlet performance data for Blinkit â
 - Products with regular fat content significantly outperform low-fat items, generating $776.32K in revenue. 
 - Among outlet types, Supermarket Type 1 leads in performance with $786K in sales and the highest number of listed items (5,577). 
 - In terms of location, Tier 3 outlets contribute the most to total sales at $472.13K, while medium-sized outlets perform best among size categories with $507.90K in sales. 
-- Sales peaked in 2018 at $205K but have since stabilized, reaching $131K in 2022. Customer feedback shows an average rating of 3.9 out of 5, and each outlet generates an average of $141K in sales. 
-Tools Used
-Power BI Desktop
+- Sales peaked in 2018 at $205K but have since stabilized, reaching $131K in 2022.
+- Customer feedback shows an average rating of 3.9 out of 5, and each outlet generates an average of $141K in sales. 
 
-Microsoft Excel
-
-Company outlet & product sales database
+### Tools Used
+- Power BI Desktop
+- Microsoft Excel
+- Company outlet & product sales database
