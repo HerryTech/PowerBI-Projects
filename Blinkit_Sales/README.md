@@ -8,9 +8,9 @@ This Power BI project visualizes sales and outlet performance data for Blinkit �
 - Present results in a clear, interactive, and visually engaging dashboard.
 
 ### Project Structure
-`data` – Sales and outlet data (CSV or Excel format)
-`report` – Power BI report file (PBIX)
-`assets` – Dashboard screenshot image
+- `data` – Sales and outlet data (CSV or Excel format)
+- `report` – Power BI report file (PBIX)
+- `assets` – Dashboard screenshot image
 
 ### Key Dashboard Insights
 - Total sales across all outlets amount to $1.20 million, with Fruits & Vegetables and Snack Foods emerging as the highest-selling categories, each contributing $180K. 
