@@ -8,7 +8,7 @@ This Power BI project visualizes sales and outlet performance data for Blinkit �
 - Present results in a clear, interactive, and visually engaging dashboard.
 
 ### Project Structure
-- `data` – Sales and outlet data (CSV or Excel format)
+- `data` – Sales and outlet data (Excel format)
 - `report` – Power BI report file (PBIX)
 - `assets` – Dashboard screenshot image
 
