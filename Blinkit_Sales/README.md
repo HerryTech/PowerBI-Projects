@@ -26,4 +26,4 @@ This Power BI project visualizes sales and outlet performance data for Blinkit â
 - Company outlet & product sales database
 
 ### Screenshot
-[Blinkit Dashboard Preview](./Blinkit_dashboard.png)
+[Blinkit Dashboard Preview](./asset/Blinkit_Dashboard.png)
