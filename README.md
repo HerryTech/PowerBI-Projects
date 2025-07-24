@@ -16,7 +16,10 @@ A Power BI dashboard analyzing survey responses from data professionals, coverin
 
 **Folder:** [data_professional_survey](./data_professional_survey)
 
-### 3. Blinkit Sales (_in progress..._)
+### 3. Blinkit Sales
+An interactive dashboard analyzing sales data for Blinkit – India’s Last Minute App. The report highlights trends in product category performance, outlet efficiency, and customer ratings
+
+**Folder:** [Blinkit_Sales](./Blinkit_Sales)
 
 
 _More projects will be added soon!_
