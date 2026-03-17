@@ -55,7 +55,7 @@ As a result, decisions around growth, cost control, and operational improvements
 
 ### 1. Executive Overview
 
-![Executive Overview](./Image/Executive_Dashboard.png)
+![Executive Overview](./Assets/Executive%20Dashboard.png)
 
 This page provides a high level summary of overall business performance for executive stakeholders.
 
@@ -79,7 +79,7 @@ This page provides a high level summary of overall business performance for exec
 
 ### 2. Customer and Market Analysis
 
-![Customer and Market Analysis](./Image/Customer_Dashboard.png)
+![Customer and Market Analysis](./Assets/Customer%20Dashboard.png)
 
 This page focuses on understanding customer behavior and market dynamics.
 
@@ -103,7 +103,7 @@ This page focuses on understanding customer behavior and market dynamics.
 
 ### 3. Regional and Operations Performance
 
-![Regional and Operations Performance](./Image/Regional_Dashboard.png)
+![Regional and Operations Performance](./Assets/Regional%20Dashboard.png)
 
 This page provides insight into regional performance and operational efficiency.
 
@@ -279,4 +279,4 @@ This project demonstrates the ability to:
 ## Author
 
 **Blessing Ilesanmi**  
-Business Intelligence Analyst
+ Data Analyst
