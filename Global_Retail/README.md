@@ -109,7 +109,7 @@ This page provides insight into regional performance and operational efficiency.
 
 **Key Features:**
 
-- KPI cards for Shipping Cost, Delivery Days, Return Rate, Returned Sales, and Returned Profit  
+- KPI cards for Shipping Cost, Average Delivery Days, Return Rate, Returned Sales, and Returned Profit  
 - Sales distribution across regions within each market  
 - Shipping mode performance (Sales vs Delivery Days)  
 - Top 10 regional managers by sales performance  
