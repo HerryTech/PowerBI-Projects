@@ -136,9 +136,9 @@ This page provides insight into regional performance and operational efficiency.
 
 ### Customer Metrics
 - Total Customers: 17,415  
-- Average Order Value: 611  
-- Sales per Customer: 903  
-- Profit per Customer: 106  
+- Average Order Value: $611  
+- Sales per Customer: $903  
+- Profit per Customer: $106  
 - Orders per Customer: 1.5  
 
 ### Operational Metrics
