@@ -128,7 +128,7 @@ This page provides insight into regional performance and operational efficiency.
 ## KPI Summary
 
 ### Executive Metrics
-- Total Sales: 15.73M  
+- Total Sales: $15.73M  
 - Total Profit: 1.85M  
 - Profit Margin: 11.77%  
 - Return Rate: 7.7%  
