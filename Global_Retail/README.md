@@ -142,10 +142,10 @@ This page provides insight into regional performance and operational efficiency.
 - Orders per Customer: 1.5  
 
 ### Operational Metrics
-- Total Shipping Cost: 1.69M  
+- Total Shipping Cost: $1.69M  
 - Average Delivery Days: 4.0  
-- Returned Sales: 1.82M  
-- Returned Profit: 190.61K  
+- Returned Sales: $1.82M  
+- Returned Profit: $190.61K  
 
 All KPIs dynamically update based on user interaction with filters.
 
