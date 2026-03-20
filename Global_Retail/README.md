@@ -156,7 +156,7 @@ All KPIs dynamically update based on user interaction with filters.
 **Source:** Global Superstore Dataset  
 
 ### Tables Used:
-- Orders  
+- Orders 
 - Returns  
 - People (Regional Managers)  
 - Date Table (created for time intelligence)  
@@ -278,5 +278,4 @@ This project demonstrates the ability to:
 
 ## Author
 
-**Blessing Ilesanmi**  
- Data Analyst
+
