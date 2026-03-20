@@ -209,8 +209,6 @@ All KPIs dynamically update based on user interaction with filters.
 - Multi page report navigation  
 - Optimized visuals for executive consumption  
 
----
-
 ## Key Insights
 
 - Sales and profit show consistent growth with seasonal patterns  
