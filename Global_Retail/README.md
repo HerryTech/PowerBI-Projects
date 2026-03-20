@@ -192,8 +192,6 @@ All KPIs dynamically update based on user interaction with filters.
 - Created calculated columns and measures  
 - Built structured relationships across tables  
 
----
-
 ## Technical Implementation
 
 ### Tools & Technologies
