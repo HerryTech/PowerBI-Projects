@@ -123,8 +123,6 @@ This page provides insight into regional performance and operational efficiency.
 - Identify high return categories and risk areas  
 - Support operational cost optimization  
 
----
-
 ## KPI Summary
 
 ### Executive Metrics
