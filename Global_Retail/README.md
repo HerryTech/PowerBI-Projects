@@ -149,8 +149,6 @@ This page provides insight into regional performance and operational efficiency.
 
 All KPIs dynamically update based on user interaction with filters.
 
----
-
 ## Dataset
 
 **Source:** Global Superstore Dataset  
@@ -170,8 +168,6 @@ All KPIs dynamically update based on user interaction with filters.
 - Market and Region  
 - Shipping Mode  
 - Return Status  
-
----
 
 ## Data Model
 
