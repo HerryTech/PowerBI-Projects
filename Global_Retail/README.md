@@ -246,8 +246,6 @@ This report enables leadership to:
 - Data visualization and storytelling  
 - Business analysis and insight generation  
 
----
-
 ## How to Use
 
 1. Open the Power BI (.pbix) file  
@@ -261,8 +259,6 @@ This report enables leadership to:
 4. Interact with visuals to explore trends and insights  
 
 All visuals update dynamically based on selections.
-
----
 
 ## Project Purpose
 
