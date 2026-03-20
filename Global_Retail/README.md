@@ -181,8 +181,6 @@ All KPIs dynamically update based on user interaction with filters.
 - Relationships established using primary and foreign keys  
 - Dedicated Date table created to support time intelligence  
 
----
-
 ## Data Preparation
 
 - Cleaned and transformed data using Power Query  
