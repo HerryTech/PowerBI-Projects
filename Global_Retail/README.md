@@ -272,10 +272,6 @@ This project demonstrates the ability to:
 - Integrate and model complex datasets  
 - Translate business requirements into analytical solutions  
 - Deliver executive ready dashboards  
-- Generate actionable insights from data  
-
----
-
-## Author
+- Generate actionable insights from data 
 
 
