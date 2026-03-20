@@ -235,8 +235,6 @@ This report enables leadership to:
 - Reduce return rates and associated losses  
 - Make informed, data driven strategic decisions  
 
----
-
 ## Skills Demonstrated
 
 - Power BI dashboard design and layout structuring  
