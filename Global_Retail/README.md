@@ -222,8 +222,6 @@ All KPIs dynamically update based on user interaction with filters.
 - Return rates vary significantly across categories, indicating operational gaps  
 - Delivery performance is relatively consistent across regions  
 
----
-
 ## Business Impact
 
 This report enables leadership to:
